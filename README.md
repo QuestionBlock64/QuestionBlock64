@@ -78,6 +78,7 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
 
 <br>
 
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="48%" />
