@@ -10,6 +10,15 @@
 
 <br>
 
+### 👨‍💻 A Little About Me
+I'm an independent game developer and software modder with a deep fascination for reverse engineering and game physics. I spend a lot of time analyzing momentum and character movement kits from classic franchises like *Super Mario* and *Sonic the Hedgehog*. 
+
+Currently, I'm engineering a custom standalone 2D platformer in the Godot engine. It's a personal project dedicated to a close friend (who stars as the protagonist), blending *Super Mario World* style physics with vibrant environments inspired by Penacony from *Honkai: Star Rail*. 
+
+On the modding front, I'm leading the development of the **MiSide Multiplayer Mod**, pioneering two-player network synchronization and animation handling using the BepInEx framework. When I'm not coding or designing UI for my custom software launcher, I'm usually diving into complex video game lore, experimenting with Windows OS architecture and kernel-level behaviors, or researching paranormal lore and electronic voice phenomena (EVP).
+
+---
+
 <h3 align="center">Featured Projects</h3>
 
 <table align="center">
@@ -33,7 +42,7 @@
 
 ---
 
-### Skills & Tech Stack
+### 🛠️ Skills & Tech Stack
 
 **Programming Languages**<br>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -48,6 +57,7 @@
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot" />
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/BepInEx-5F2D90?style=for-the-badge" alt="BepInEx" />
 <img src="https://img.shields.io/badge/IL2CPP-1E1E1E?style=for-the-badge" alt="IL2CPP" />
 
@@ -63,3 +73,12 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Application" />
+
+---
+
+<h3 align="center">GitHub Analytics</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="48%" />
+</div>
