@@ -11,9 +11,9 @@
 <br>
 
 ### 👨‍💻 A Little About Me
-I'm an independent game developer and software modder with a deep fascination for reverse engineering and game physics. I spend a lot of time analyzing momentum and character movement kits from classic franchises like *Super Mario* and *Sonic the Hedgehog*. 
+I'm an independent game developer and software modder with a deep fascination for reverse engineering and game physics. I spend a lot of time analyzing momentum and character movement kits from classic franchises like *Super Mario* and *Sonic the Hedgehog*.
 
-Currently, I'm engineering a custom standalone 2D platformer in the Godot engine. It's a personal project dedicated to a close friend (who stars as the protagonist), blending *Super Mario World* style physics with vibrant environments inspired by Penacony from *Honkai: Star Rail*. 
+Currently, I'm engineering a custom standalone 2D platformer in the Godot engine. It's a personal project dedicated to a close friend (who stars as the protagonist).
 
 On the modding front, I'm leading the development of the **MiSide Multiplayer Mod**, pioneering two-player network synchronization and animation handling using the BepInEx framework. When I'm not coding or designing UI for my custom software launcher, I'm usually diving into complex video game lore, experimenting with Windows OS architecture and kernel-level behaviors.
 
