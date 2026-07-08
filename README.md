@@ -44,7 +44,7 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
 
 ### 🛠️ Skills & Tech Stack
 
-**Programming Languages**<br>
+**📜 Programming Languages**<br>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge" alt="Assembly" />
@@ -53,7 +53,7 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
 
 <br>
 
-**Game Engines & Frameworks**<br>
+**🎮 Game Engines & Frameworks**<br>
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot" />
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
@@ -63,7 +63,7 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
 
 <br>
 
-**OS, Tools & Platforms**<br>
+**💻 OS, Tools & Platforms**<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -76,7 +76,7 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
 
 ---
 
-<h3 align="center">GitHub Analytics</h3>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
