@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://discord.gg/YOUR_INVITE_LINK">
+  <a href="https://discord.gg/yyDVE3rTzQ">
     <img src="https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
@@ -15,7 +15,7 @@ I'm an independent game developer and software modder with a deep fascination fo
 
 Currently, I'm engineering a custom standalone 2D platformer in the Godot engine. It's a personal project dedicated to a close friend (who stars as the protagonist), blending *Super Mario World* style physics with vibrant environments inspired by Penacony from *Honkai: Star Rail*. 
 
-On the modding front, I'm leading the development of the **MiSide Multiplayer Mod**, pioneering two-player network synchronization and animation handling using the BepInEx framework. When I'm not coding or designing UI for my custom software launcher, I'm usually diving into complex video game lore, experimenting with Windows OS architecture and kernel-level behaviors, or researching paranormal lore and electronic voice phenomena (EVP).
+On the modding front, I'm leading the development of the **MiSide Multiplayer Mod**, pioneering two-player network synchronization and animation handling using the BepInEx framework. When I'm not coding or designing UI for my custom software launcher, I'm usually diving into complex video game lore, experimenting with Windows OS architecture and kernel-level behaviors.
 
 ---
 
@@ -73,13 +73,3 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Application" />
-
----
-
-<br>
-
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="48%" />
-</div>
