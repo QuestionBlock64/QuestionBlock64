@@ -24,14 +24,18 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="eaca42193d2c61f6211b19d5792b2c15703ea6f0.ico" width="80" alt="MiSide Icon" />
+      <a href="https://github.com/QuestionBlock64/MiSide-Multiplayer">
+        <img src="eaca42193d2c61f6211b19d5792b2c15703ea6f0.ico" width="80" alt="MiSide Icon" />
+      </a>
       <br>
       <strong>MiSide Multiplayer Mod</strong>
       <br>
       Multi-player network modification using the BepInEx framework.
     </td>
     <td width="50%" align="center">
-      <img src="icon.png" width="80" alt="Super BrickGame World Icon" />
+      <a href="https://github.com/QuestionBlock64/Super-BrickGame-World">
+        <img src="icon.png" width="80" alt="Super BrickGame World Icon" />
+      </a>
       <br>
       <strong>Super BrickGame World</strong>
       <br>
