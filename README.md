@@ -15,7 +15,7 @@ I'm an independent game developer and software modder with a deep fascination fo
 
 Currently, I'm engineering a custom standalone 2D platformer in the Godot engine. It's a personal project dedicated to a close friend (who stars as the protagonist).
 
-On the modding front, I'm leading the development of the **MiSide Multiplayer Mod**, pioneering two-player network synchronization and animation handling using the BepInEx framework. When I'm not coding or designing UI for my custom software launcher, I'm usually diving into complex video game lore, experimenting with Windows OS architecture and kernel-level behaviors.
+On the modding front, I'm leading the development of the **MiSide Multiplayer Mod**, pioneering multi-player network synchronization and animation handling using the BepInEx framework. When I'm not coding or designing UI for my custom software launcher, I'm usually diving into complex video game lore, experimenting with Windows OS architecture and kernel-level behaviors.
 
 ---
 
@@ -28,7 +28,7 @@ On the modding front, I'm leading the development of the **MiSide Multiplayer Mo
       <br>
       <strong>MiSide Multiplayer Mod</strong>
       <br>
-      Two-player network modification using the BepInEx framework.
+      Multi-player network modification using the BepInEx framework.
     </td>
     <td width="50%" align="center">
       <img src="icon.png" width="80" alt="Super BrickGame World Icon" />
