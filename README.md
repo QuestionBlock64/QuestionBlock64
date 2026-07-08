@@ -52,5 +52,9 @@
 
 **OS, Tools & Platforms**<br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="Nintendo Switch" />
+<img src="https://img.shields.io/badge/Nintendo_3DS-E60012?style=for-the-badge&logo=nintendo3ds&logoColor=white" alt="Nintendo 3DS" />
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 <img src="https://img.shields.io/badge/MediaWiki-E6E6E6?style=for-the-badge&logo=mediawiki&logoColor=black" alt="MediaWiki" />
